@@ -1,0 +1,110 @@
+{
+    "Index": {
+        "title": "Hello world!",
+        "meta": {
+          "title": "Gran Vellas Urbanismo - Lanzamiento del Desarrollo Inmobiliario Jericoacoara",
+          "description": "Gran Vellas Urbanismo se complace en anunciar el lanzamiento de nuestro nuevo desarrollo inmobiliario, Jericoacoara. Situado a unos 300 km de Fortaleza, Jeri es un encantador pueblo de pescadores y uno de los destinos más buscados por los viajeros.",
+          "metakeyswords": "Desarrollo Inmobiliario, Lanzamiento, Jericoacoara, Gran Vellas Urbanismo, Desarrolladora, Propiedades, Ubicación Privilegiada, Pueblo de Pescadores, Hermosas Playas, Lugares Turísticos"
+        },
+        "Navbar": {
+            "Venture": "El Emprendimiento",
+            "Jericoara": "Jericoara",
+            "Investment": "Inversión",
+            "Reserve": "Reserve su unidad"
+        },
+        "MainBanner": "Un pedazo de paraíso: Invierta en Jericoacoara.",
+        "MainBannerThanks": "Thank you for contacting us! We are redirecting you to our WhatsApp .",
+        "MainBannerWhatsapp": "Click here !",
+        "Carrousel": {
+          "portaria": "portero las 24 horas", 
+          "lago": "lago interno con bar",
+          "espaco": "espacio abierto, arbolado y con ocio completo",
+          "clube": "club completo con barbacoa y piscina"
+        },
+        "Wind":{
+          "title": "Conoce el Gran Vellas Wind, tu próximo sueño.",
+          "t1": "ÁREA CON MÁS DE",
+          "tt1": "11,000m² DE OCIO",
+          "t2": "ESTRUCTURA Y OCIO",
+          "tt2": "COMPLETO",
+          "t3": "UBICADO EN LA LAGOA DO",
+          "tt3": "PARAÍSO",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus gravida quis blandit turpis cursus. Bibendum est ultricies integer quis auctor elit sed. Magna sit amet purus gravida quis blandit turpis cursus in. Ipsum dolor sit amet consectetur."
+        },
+        "assessment": {
+            "mainTitle": "Una inversión única con infraestructura completa para ti",
+            "button": "adquiere tu lote",
+            "buttonLocation": "Jeri",
+            "buttonMain": "ahora mismo",
+            "lastButton": "Asegura tu lote",
+            "lastButtonMain": "hoy",
+            "money": {
+              "title": "Compra facilitada en hasta 84 cuotas directamente con el desarrollador",
+              "money2": "Pago inicial a partir de",
+              "money3": "Cuotas mensuales a partir de"
+            },
+            "client1": "Desarrollo maravilloso, cerca de varios puntos turísticos y estamos muy felices con la adquisición. Desde el momento en que lo adquirimos, ha habido una valorización.",
+            "client2": "Conocí a Gran Vellas en internet, me sentí super seguro, vi que era una inversión maravillosa, en un paraíso que es Jericoacoara... Fueron muy atentos, aprobé todo y por supuesto, hice la inversión de mi vida.",      
+            "download": {
+              "LoteJuri": "Seguridad y transparencia en su Inversión",
+              "make": "descargar",
+              "p1": "del Registro de Propiedad",
+              "p2": "del Permiso de Construcción"
+            }
+          },
+        "Form": {
+            "title": "Da el siguiente paso",
+            "titleMain": "hacia tu sueño",
+            "name": "Nombre",
+            "Email": "Correo electrónico",
+            "Tel": "Teléfono",
+            "button": "Reservar",
+            "buttonMain": "tu parcela en Jeri",
+            "new": "¡Nuevo contacto!",
+            "sucess": "¡Contacto enviado con éxito! Pronto nos pondremos en contacto. ¡Siéntase libre de enviar nuevos contactos!"
+            
+        },
+        "Footer": {
+              "About": "Acerca de",
+              "Contact": "Contacto",
+              "service": "atención",
+              "Talk": "Hable con uno de nuestros corredores",
+              "dateWeek": "De lunes a domingo, de 8 a.m. a 6 p.m."
+    
+        },
+        "FooterNotes": {
+            "title": "AVISO LEGAL",
+            "p": "* Cuotas válidas para el lote 23 de 250,05 m², sin incluir las 7 cuotas anuales de R$ 12.502,50, tanto las cuotas como los globos se ajustarán anualmente por IPCA+6%. (consulte la tabla y la disponibilidad con su corredor).",
+            "ptwo": "Nos reservamos el derecho de cambiar cualquier información o valor proporcionado para los lotes ofrecidos y sus accesorios (condominio, impuesto a la propiedad, etc.), tanto en nuestro sitio web como en cualquier otro medio de comunicación o promoción de ofertas sin previo aviso.",
+            "ptree": "También nos reservamos el derecho de atender solo a aquellos clientes que se identifiquen con nombre completo, teléfono fijo o móvil y correo electrónico, y la propiedad sea exclusivamente para su uso e interés. Los clientes que se nieguen a proporcionar esta información, desafortunadamente, no podrán recibir asistencia, ya sea para la venta o para preguntas diversas, por simples que sean; Los clientes que nos contacten solicitando información para terceros deben proporcionar, además de sus propios datos, los datos del tercero interesado para evitar un servicio duplicado y fallas en la comunicación."
+          },
+
+        "TitleVideo": "Tu lugar en el paraíso.",
+        "blogPosting1": {
+          "title": "Jericoacoara:",
+          "titlespan": "El paraíso cearense",
+          "description": "Considerada una de las playas más visitadas del mundo, Jericoacoara es un destino en crecimiento para emprendimientos nacionales e internacionales. El paraíso cearense es el lugar elegido para el primer lanzamiento de Gran Vellas Urbanismo en el mercado inmobiliario."
+        },
+        "blogPosting2":
+        {
+          "title": "Ceará debería recibir más de",
+          "titlespan": "130 mil turistas en las vacaciones de Carnaval",
+          "description": "Las expectativas de la Secretaría de Turismo de Ceará (Setur) son positivas. Se estima que Ceará recibirá 133 mil viajeros en el feriado, un aumento del 18,8% en comparación con los 112 mil recibidos el año pasado."
+        },
+        "blogPosting3":
+        {
+          "title": "Gran Vellas Wind, en Jericoacoara estará a solo",
+          "titlespan": "5 minutos de uno de los mayores puntos turísticos de la ciudad: el Alchymist Beach Club.",
+          "description": "Ubicado en Lagoa do Paraíso, a solo 18 km de Jericoacoara, el Alchymist Beach Club es otra de las propiedades del grupo Alchymist en todo el mundo."
+        },
+        "blogPosting4":
+        {
+          "title": "Conozca la mejor villa de Jericoacoara,",
+          "titlespan": "¡cerca de Gran Vellas Wind en Jeri!",
+          "description": "La villa, ubicada a unos 300 km de Fortaleza, más precisamente en la ciudad de Jijoca de Jericoacoara, es un lugar tranquilo, con calles de arena y escenarios bucólicos, ideales para quienes quieren descansar y renovar sus energías!" 
+        }
+    
+        
+        
+  }
+}

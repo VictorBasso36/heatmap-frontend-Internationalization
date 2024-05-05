@@ -4,7 +4,7 @@ import Teste from '@/components/test';
 export default async function Index() {
   return (
     <div>
-      landingPage
+      dashboard
       <Teste />
       <Header />
       <Hero />

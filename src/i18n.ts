@@ -1,8 +1,14 @@
-
-import createNextIntlPlugin from 'next-intl/plugin'; 
-const withNextIntl = createNextIntlPlugin();
+import {notFound} from 'next/navigation';
+import {getRequestConfig} from 'next-intl/server';
  
-/** @type {import('next').NextConfig} */
-const nextConfig = {};
+// Can be imported from a shared config
+const locales = ['en', 'pt', 'es'];
  
-export default withNextIntl(nextConfig);
+export default getRequestConfig(async ({locale}) => {
+  // Validate that the incoming `locale` parameter is valid
+  if (!locales.includes(locale as any)) notFound();
+ 
+  return {
+    messages: (await import(`../messages/${locale}.json`)).default
+  };
+});

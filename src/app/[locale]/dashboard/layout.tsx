@@ -1,9 +1,9 @@
 import { GeistSans } from 'geist/font/sans';
-import './globals.css';
+import '../globals.css';
 import {NextIntlClientProvider, useMessages} from 'next-intl';
 
 export const metadata = {
-  title: 'Supabase Next Auth',
+  title: 'Dashboard - Heatmap',
   description: '',
 };
 
