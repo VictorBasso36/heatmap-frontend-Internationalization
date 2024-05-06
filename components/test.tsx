@@ -1,6 +1,6 @@
 import { useTranslations } from 'next-intl';
 
 export default function Teste(){
-    const t = useTranslations('Index');
-    return  <p>{t('Navbar.Venture').toLocaleUpperCase()}</p>
+    const t = useTranslations('LandingPage');
+    return  <p>{t('title').toLocaleUpperCase()}</p>
 }

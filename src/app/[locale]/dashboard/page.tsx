@@ -4,10 +4,8 @@ import Teste from '@/components/test';
 export default async function Index() {
   return (
     <div>
-      dashboard
-      <Teste />
       <Header />
-      <Hero />
+      <h1 style={{color: 'white'}}>Dashboard</h1>
     </div>
   );
 }

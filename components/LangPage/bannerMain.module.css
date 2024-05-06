@@ -1,0 +1,23 @@
+.bannerMain{
+    width: 100%;
+    display: flex;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.bannerContainer{
+    max-width: var(--widthContainerMax);
+    width: var(--widthContainer);
+    display: flex;
+    flex-direction: column;
+}
+
+.bannerContainer h1{
+    font-weight: bold;
+    font-size: 4rem;
+    text-align: center;
+    
+}

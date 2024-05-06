@@ -1,0 +1,11 @@
+.mainLogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 24px;
+}
+
+.mainLogo img{
+    margin-right: 10px;
+}

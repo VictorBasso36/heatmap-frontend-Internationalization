@@ -1,8 +1,20 @@
 .header {
   padding: 1rem 2rem;
   display: flex;
-  justify-content: space-between;
+  height: 100px;
+  justify-content: center;
   align-items: center;
-  border-bottom: 1px solid rgb(27, 27, 29);
+  border-bottom: var(--borderMain);
   margin-bottom: 1rem;
+  width: 100%;
 }
+
+.headerContainer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: var(--widthContainer);
+  max-width: var(--widthContainer);
+}
+
+
